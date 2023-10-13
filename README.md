@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: flex-end">
-pg
-</div>
+qs	qs	qs
 <pre>
 <code>
 create temp table t1 (id int);
@@ -13,6 +11,4 @@ select
 from t1; 
 </code>
 </pre>
-<div style="display: flex; justify-content: flex-end">
-pg1111
-</div>
+hrthrthth
