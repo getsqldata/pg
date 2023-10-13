@@ -1,4 +1,4 @@
-<div>
+<div style="display: flex; justify-content: flex-end">
 pg
 </div>
 <pre>
@@ -13,6 +13,6 @@ select
 from t1; 
 </code>
 </pre>
-<div>
+<div style="display: flex; justify-content: flex-end">
 pg1111
 </div>
