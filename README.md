@@ -11,16 +11,32 @@ select
 from t1; 
 </code>
 </pre>
-hrthrthth
 
 
-<h3>Start with text hidden:</h3>  
-<button id="light1_butt" onclick=${() => {
-  document.getElementById("light1_text").hidden = document.getElementById("light1_text").hidden? false : true;
-  let btext = document.getElementById("light1_butt").innerText;
-  document.getElementById("light1_butt").innerText = (btext[0] == 'H')? btext.replace("Hide","Show") : btext.replace("Show","Hide");
-  }
-}>Show the text</button>
-<div id='light1_text' hidden>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-</div>
+https://learnsql.com/tags/postgresql/
+https://learnsql.com/blog/sum-over-partition-by/
+https://learnsql.com/blog/learn-advanced-postgresql/
+https://www.databasestar.com/postgresql/
+https://learnsql.com/blog/
+https://www.databasestar.com/sql-interview-questions/
+https://www.interviewquery.com/p/pricing-analyst-interview-questions
+
+https://www.interviewquery.com/questions/above-average-product-prices
+https://www.interviewquery.com/p/sql-left-join-combine-multiple-rows
+https://www.interviewquery.com/questions?searchQuery=&searchQuestionTag=&searchCompany=&ordering=Recommended&orderingDirection=ASC&pageSize=20&page=0&positions=Software+Engineer&tags=SQL&extraFilters=WithSolutions
+
+https://www.interviewquery.com/questions/subscription-overlap
+https://www.interviewquery.com/questions/download-facts
+
+https://www.interviewquery.com/p/sql-questions-data-analyst
+
+
+https://professorweb.ru/my/sql-server/window-functions/level3/3_11.php
+
+
+
+
+
+
+
+
