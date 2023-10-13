@@ -1,6 +1,6 @@
 pg
 
- <pre>
+<pre>
 <code>
 create temp table t1 (id int);
 
@@ -11,6 +11,6 @@ select
 	sum(id) over(order by id) 
 from t1; 
 </code>
- </pre>
+</pre>
 
  ukjyukj
